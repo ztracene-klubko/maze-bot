@@ -3,14 +3,14 @@ Project to create robot to solve a maze and probably also generating of maze.
 
 
 ## Goal and progress
-[x] create repo, add readme and license
-[x] pull jazzy image
-[x] create basic docker compose
-[ ] test ros with tutorial if its running okey
-[ ] create ros2 structure
-[ ] create dockerfile for dev
-[ ] add clang format
-[ ] create basic node  
+- [x] create repo, add readme and license
+- [x] pull jazzy image
+- [x] create basic docker compose
+- [ ] test ros with tutorial if its running okey
+- [ ] create ros2 structure
+- [ ] create dockerfile for dev
+- [ ] add clang format
+- [ ] create basic node  
  
 
 ## Stack
